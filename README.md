@@ -29,8 +29,6 @@ npm run test:report
 That's it! tests are running.
 
 ---
-Negative Test Passes ✅ = System working correctly (rejects bad input)
-Negative Test Fails  ❌ = Bug! (System accepts invalid input)
 
 ## Running the Tests
 
