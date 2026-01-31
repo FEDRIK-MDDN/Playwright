@@ -1,4 +1,4 @@
-# Singlish to Sinhala Translation System - Automated Testing
+# Singlish to Sinhala Translation System
 
 ## Project Overview
 This project contains automated tests for the SwiftTranslator (https://www.swifttranslator.com/) Singlish-to-Sinhala translation system using Playwright framework.
