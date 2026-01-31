@@ -1,0 +1,23 @@
+{
+  "name": "singlish-to-sinhala-testing",
+  "version": "1.0.0",
+  "description": "Playwright automation for Singlish to Sinhala translation testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:positive": "playwright test tests/positive",
+    "test:negative": "playwright test tests/negative",
+    "test:ui-tests": "playwright test tests/ui",
+    "test:report": "playwright show-report",
+    "test:debug": "playwright test --debug"
+  },
+  "keywords": ["playwright", "testing", "automation", "singlish", "sinhala"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.0",
+    "@types/node": "^20.11.0"
+  }
+}
